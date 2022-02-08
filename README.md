@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Robert D Gonzales
+
+# Run Buddy Inc.
